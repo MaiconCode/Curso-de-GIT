@@ -1,2 +1,4 @@
-# Curso de GIT
- Aula de GIT com gustavo guanabara
+# Olá Mundo
+Primeiro repositorio do codigo de GIT e GITHUB
+
+Primeiro aula 5
